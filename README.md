@@ -49,28 +49,6 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
   - Saldos netos por trimestre y moneda.
   <img width="1591" height="657" alt="image" src="https://github.com/user-attachments/assets/8b2fd9a0-c294-47c1-b753-da6ed62ce395" />
 
-En el gráfico de barras se visualizan los saldos netos trimestrales por moneda (ARS, EUR y USD) junto con la variación porcentual respecto al trimestre anterior. Como ejemplo se explica el Trimestre 1 al Trimestre 2:
-
-ARS: el saldo pasó de 656k a 810k, lo que representa un crecimiento del +23.4%. Esto indica una mejora significativa en los flujos netos en pesos durante el segundo trimestre.
-
-EUR: el saldo bajó de 789k a 751k, con una variación negativa del -4.8%
-
-USD: el saldo creció de 767k a 797k, con un aumento del +4.0%, mostrando una mejora moderada en dólares.
-
-Como análisis general (Trimestres 1 a 4) se puede visualizar:
-ARS (Pesos argentinos):
-
-Muestra una tendencia ascendente sostenida a lo largo del año, pasando de 656k a 851k. Aunque el crecimiento se modera en el tercer y cuarto trimestre, siempre mantiene una variación positiva, lo que refleja una buena performance en saldos netos en pesos.
-EUR (Euros):
-
-Presenta una caída moderada en el segundo y tercer trimestre, tocando un piso en 750k.
-
-En el cuarto trimestre se recupera parcialmente, subiendo a 774k (+3.2%), aunque sin superar el valor del primer trimestre.
-
-USD (Dólares estadounidenses):
-
-Experimenta una leve caída en el tercer trimestre (-9.6%), pero se recupera fuertemente en el cuarto, con un salto del +15.1% que lo ubica en 830k, el valor más alto del año para esta moneda.
-
   - Variaciones porcentuales respecto a períodos anteriores.
   <img width="1465" height="640" alt="image" src="https://github.com/user-attachments/assets/afe5c9dd-2133-461b-8376-5b80be6041bb" />
  
