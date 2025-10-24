@@ -20,8 +20,6 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
 - Estandarización de nombres de bancos, eliminando textos redundantes y normalizando variantes.  
 - Validación de tipos de datos y eliminación de registros incompletos o inconsistentes.  
 
-> 🧩 Resultado: dataset limpio y normalizado en formato `.parquet`.
-
 ---
 
 ### **2. Transformaciones de fechas**
@@ -32,8 +30,6 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
   - Día de la semana.  
   - Trimestre correspondiente.  
 
-> 🔍 Estas transformaciones permiten agrupar y comparar resultados por períodos financieros homogéneos.
-
 ---
 
 ### **3. Clasificación de datos**
@@ -41,9 +37,6 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
 - Creación de una nueva columna que clasifica las cuentas según su tipo:
   - `Ahorro`  
   - `Corriente`  
-  - `Otro` (si no aplica)  
-
-> 📘 Esta clasificación mejora la lectura de reportes y la segmentación de movimientos.
 
 ---
 
@@ -55,9 +48,6 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
   - Variaciones porcentuales respecto a períodos anteriores.  
   - Acumulados trimestrales por banco y tipo de cuenta.
 
-> 📊 Script: `src/analytics.py`  
-> 📁 Salida: reportes CSV en `reports/`
-
 ---
 
 ### **5. Visualización de datos**
@@ -66,10 +56,6 @@ Creación de gráficos ejecutivos para una lectura rápida de tendencias y anoma
 
 - **Evolución mensual de saldos netos por moneda** (líneas comparativas).  
 - **Distribución de montos con outliers destacados** (boxplots o violines).  
-
-> 🎨 Script: `src/visuals.py`  
-> 📁 Salida: figuras PNG en `figures/`  
-> 📈 Librerías utilizadas: `matplotlib`, `plotly`
 
 ---
 
