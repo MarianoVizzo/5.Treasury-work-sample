@@ -8,7 +8,7 @@
 ## 💼 Descripción general
 
 Este proyecto presenta un caso práctico de **análisis de datos financieros aplicados a Tesorería**, abarcando el proceso completo de **preparación, análisis y visualización de información transaccional bancaria**.  
-El objetivo es demostrar la capacidad de generar reportes consolidados y visualizaciones ejecutivas en Python que faciliten la toma de decisiones financieras.
+El objetivo es demostrar la capacidad de generar reportes consolidados y visualizaciones ejecutivas en **Python** que faciliten la toma de decisiones financieras.
 
 ---
 
@@ -59,7 +59,7 @@ Creación de gráficos ejecutivos para una lectura rápida de tendencias y anoma
 
 ---
 
-## 🧠 Tecnologías y librerías
+## 🧰 Tecnologías y librerías
 
 | Categoría | Herramientas |
 |------------|---------------|
