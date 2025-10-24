@@ -35,8 +35,8 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
 ### **3. Clasificación de datos**
 
 - Creación de una nueva columna que clasifica las cuentas según su tipo:
-  - `Ahorro`  
-  - `Corriente`  
+  - **Ahorro**
+  - **Corriente**  
 
 ---
 
