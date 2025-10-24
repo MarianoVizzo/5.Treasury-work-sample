@@ -50,8 +50,8 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
   <img width="1591" height="657" alt="image" src="https://github.com/user-attachments/assets/8b2fd9a0-c294-47c1-b753-da6ed62ce395" />
 
   - Variaciones porcentuales respecto a períodos anteriores.
-  <img width="1465" height="640" alt="image" src="https://github.com/user-attachments/assets/afe5c9dd-2133-461b-8376-5b80be6041bb" />
- 
+  <img width="1427" height="482" alt="image" src="https://github.com/user-attachments/assets/528db1c5-8a3e-4069-a93b-23bc9f042148" />
+
   - Acumulados trimestrales por banco y tipo de cuenta.
   <img width="1486" height="552" alt="image" src="https://github.com/user-attachments/assets/ef0cbf79-31f4-47ae-8d05-21faedee0f3c" />
 ---
@@ -60,7 +60,9 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
 
 Creación de gráficos ejecutivos para una lectura rápida de tendencias y anomalías:
 
-- **Evolución mensual de saldos netos por moneda** (líneas comparativas).  
+- **Evolución mensual de saldos netos por moneda** (líneas comparativas).
+<img width="1465" height="640" alt="image" src="https://github.com/user-attachments/assets/afe5c9dd-2133-461b-8376-5b80be6041bb" />
+
 - **Distribución de montos con outliers destacados** (boxplots o violines).  
 
 ---
