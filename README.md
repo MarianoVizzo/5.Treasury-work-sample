@@ -67,7 +67,9 @@ Creación de gráficos ejecutivos para una lectura rápida de tendencias y anoma
 - **Evolución mensual de saldos netos por moneda** (líneas comparativas).
 <img width="1465" height="640" alt="image" src="https://github.com/user-attachments/assets/afe5c9dd-2133-461b-8376-5b80be6041bb" />
 
-- **Distribución de montos con outliers destacados** (boxplots o violines).  
+- **Distribución de montos con outliers destacados** (boxplots o violines).
+<img width="1580" height="711" alt="Captura de pantalla 2025-10-24 130259" src="https://github.com/user-attachments/assets/647968a8-7cd6-4972-849c-e68a8a6ab851" />
+
 
 ---
 
