@@ -45,15 +45,13 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
 - **Detección de movimientos inusuales (outliers):** identificación de valores atípicos mediante análisis de dispersión.  
 - **Generación de reportes trimestrales:**  
   - Saldos netos por trimestre y moneda.
-  <img width="1486" height="552" alt="image" src="https://github.com/user-attachments/assets/ef0cbf79-31f4-47ae-8d05-21faedee0f3c" />
   <img width="1450" height="492" alt="image" src="https://github.com/user-attachments/assets/025bf2e4-0c8f-4115-8263-f8d161b438f2" />
-
 
   - Variaciones porcentuales respecto a períodos anteriores.
   <img width="1465" height="640" alt="image" src="https://github.com/user-attachments/assets/afe5c9dd-2133-461b-8376-5b80be6041bb" />
  
   - Acumulados trimestrales por banco y tipo de cuenta.
-
+  <img width="1486" height="552" alt="image" src="https://github.com/user-attachments/assets/ef0cbf79-31f4-47ae-8d05-21faedee0f3c" />
 ---
 
 ### **5. Visualización de datos**
