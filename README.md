@@ -42,7 +42,9 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
 
 ### **4. Análisis de datos**
 
-- **Detección de movimientos inusuales (outliers):** identificación de valores atípicos mediante análisis de dispersión.  
+- **Detección de movimientos inusuales (outliers):** identificación de valores atípicos mediante análisis de dispersión.
+  <img width="1545" height="652" alt="image" src="https://github.com/user-attachments/assets/1141a2b6-efb3-4318-b072-6fea0445162b" />
+
 - **Generación de reportes trimestrales:**  
   - Saldos netos por trimestre y moneda.
   <img width="1450" height="492" alt="image" src="https://github.com/user-attachments/assets/025bf2e4-0c8f-4115-8263-f8d161b438f2" />
