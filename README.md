@@ -53,7 +53,11 @@ El objetivo es demostrar la capacidad de generar reportes consolidados y visuali
   <img width="1427" height="482" alt="image" src="https://github.com/user-attachments/assets/528db1c5-8a3e-4069-a93b-23bc9f042148" />
 
   - Acumulados trimestrales por banco y tipo de cuenta.
-  <img width="1486" height="552" alt="image" src="https://github.com/user-attachments/assets/ef0cbf79-31f4-47ae-8d05-21faedee0f3c" />
+  Ejemplo con el **BANCO BBVA ARGENTINA S.A.**
+  <img width="1495" height="447" alt="image" src="https://github.com/user-attachments/assets/b0111e28-ff2e-4a62-adfb-972fc09b7c89" />
+  <img width="1493" height="446" alt="image" src="https://github.com/user-attachments/assets/8e84d828-e439-4d80-a7a0-2d45cddb76d9" />
+
+
 ---
 
 ### **5. Visualización de datos**
