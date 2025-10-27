@@ -75,6 +75,10 @@ Creación de gráficos ejecutivos para una lectura rápida de tendencias y anoma
 
 ## 🧰 Tecnologías y librerías
 
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zamFrZXEydjB5Znk1aXZmOHN2YzRkOXJ1aW84M2d2aTVkMWVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300" />  
+</div>
+
 | Categoría | Herramientas |
 |------------|---------------|
 | Lenguaje principal | Python 3.10+ |
