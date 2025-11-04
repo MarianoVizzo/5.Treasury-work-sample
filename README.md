@@ -18,7 +18,8 @@ El objetivo es demostrar la capacidad de **Python** de generar reportes consolid
 
 - Renombrado de columnas para asegurar consistencia y formato uniforme.  
 - Estandarización de nombres de bancos, eliminando textos redundantes y normalizando variantes.  
-- Validación de tipos de datos y eliminación de registros incompletos o inconsistentes.  
+- Validación de tipos de datos y eliminación de registros incompletos o inconsistentes.
+- Con el objetivo de garantizar la trazabilidad institucional y el cumplimiento normativo en el tratamiento de datos financieros, se incorporó el nomenclador oficial de entidades financieras provisto por el **Banco Central de la República Argentina (BCRA)**. Este paso resulta fundamental para normalizar los nombres de las entidades bancarias y garantizar la consistencia de los análisis posteriores.
 
 ---
 
