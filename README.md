@@ -7,8 +7,8 @@
 
 ## 💼 Descripción general
 
-Este proyecto presenta un caso práctico de **análisis de datos financieros aplicados a Tesorería**, abarcando el proceso completo de **preparación, análisis y visualización de información transaccional bancaria**.  
-El objetivo es demostrar la capacidad de generar reportes consolidados y visualizaciones ejecutivas en **Python** que faciliten la toma de decisiones financieras.
+Este proyecto presenta un caso práctico de **análisis de datos financieros aplicados a Tesorería de una Compañía Argentina**, abarcando el proceso completo de **preparación, análisis y visualización de información transaccional bancaria**.  
+El objetivo es demostrar la capacidad de **Python** de generar reportes consolidados y visualizaciones ejecutivas que permiten facilitar la toma de decisiones financieras.
 
 ---
 
